@@ -58,4 +58,6 @@ class UserSeeder extends Seeder
             'password' => Hash::make('password5'),
         ]);
     }
+
+    //test 
 }
